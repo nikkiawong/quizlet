@@ -1,0 +1,292 @@
+.container {
+  margin: 60px;
+}
+
+.javascript {
+  box-sizing: border-box;
+  width: 50%;
+  border: 2px solid #000;
+  padding: 100px;
+  height: 250px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+.operators {
+  box-sizing: border-box;
+  width: 50%;
+  border: 2px solid #000;
+  padding: 100px;
+  height: 250px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+.variables {
+  box-sizing: border-box;
+  width: 50%;
+  border: 2px solid #000;
+  padding: 50px;
+  height: 250px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+.variable-naming-conventions {
+  box-sizing: border-box;
+  width: 50%;
+  border: 2px solid #000;
+  padding: 50px;
+  height: 250px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+.functions {
+  box-sizing: border-box;
+  width: 50%;
+  border: 2px solid #000;
+  padding: 75px;
+  height: 250px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+.methods {
+  box-sizing: border-box;
+  width: 50%;
+  border: 2px solid #000;
+  padding: 100px;
+  height: 250px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+
+.arguments {
+  box-sizing: border-box;
+  width: 50%;
+  border: 2px solid #000;
+  padding: 50px;
+  height: 250px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+
+.parameters {
+  box-sizing: border-box;
+  width: 50%;
+  border: 2px solid #000;
+  padding: 100px;
+  height: 250px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+
+.return {
+  box-sizing: border-box;
+  width: 50%;
+  border: 2px solid #000;
+  padding: 100px;
+  height: 250px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+.chaining-methods {
+  box-sizing: border-box;
+  width: 50%;
+  border: 2px solid #000;
+  padding: 75px;
+  height: 250px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+.strings {
+  box-sizing: border-box;
+  width: 50%;
+  border: 2px solid #000;
+  padding: 100px;
+  height: 250px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+.booleans {
+  box-sizing: border-box;
+  width: 50%;
+  border: 2px solid #000;
+  padding: 100px;
+  height: 250px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+.undefined {
+  box-sizing: border-box;
+  width: 50%;
+  border: 2px solid #000;
+  padding: 100px;
+  height: 250px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+.nan {
+  box-sizing: border-box;
+  width: 50%;
+  border: 2px solid #000;
+  padding: 75px;
+  height: 250px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+.escape {
+  box-sizing: border-box;
+  width: 50%;
+  border: 2px solid #000;
+  padding: 100px;
+  height: 250px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+.alert2 {
+  box-sizing: border-box;
+  width: 50%;
+  border: 2px solid #000;
+  padding: 75px;
+  height: 250px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+.comments {
+  box-sizing: border-box;
+  width: 50%;
+  border: 2px solid #000;
+  padding: 100px;
+  height: 250px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+.jquery {
+  box-sizing: border-box;
+  width: 50%;
+  border: 2px solid #000;
+  padding: 50px;
+  height: 250px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+.attributes {
+  box-sizing: border-box;
+  width: 50%;
+  border: 2px solid #000;
+  padding: 100px;
+  height: 250px;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+
+#javascript-def {
+  display: none;
+}
+
+#operators-def {
+  display: none;
+}
+
+#variables-def {
+  display: none;
+}
+
+#variable-naming-conventions-def {
+  display: none;
+}
+
+#functions-def {
+  display: none;
+}
+
+#methods-def {
+  display: none;
+}
+
+#arguments-def {
+  display: none;
+}
+
+#parameters-def {
+  display: none;
+}
+
+#return-def {
+  display: none;
+}
+
+#chaining-methods-def {
+  display: none;
+}
+
+#strings-def {
+  display: none;
+}
+
+#booleans-def {
+  display: none;
+}
+
+#undefined-def {
+  display: none;
+}
+
+#nan-def {
+  display: none;
+}
+
+#escape-def {
+  display: none;
+}
+
+#alert2-def {
+  display: none;
+}
+
+#comments-def {
+  display: none;
+}
+
+#jquery-def {
+  display: none;
+}
+
+#attributes-def {
+  display: none;
+}
